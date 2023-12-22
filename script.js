@@ -22,5 +22,14 @@ for (let index = 9; index < 18; index++) {
   }
 }
 // Save the event in local storage when the save button is clicked in that timeblock.
+function handleSaveClick(){
+    var text = $(this).siblings(".description").val();
+    console.log(text)
+    //todo:
+    //add the value of text to local storage
+}
+
+$(".saveBtn").on("click", handleSaveClick);
 
 // Persist events between refreshes of a page
+//get value from local storage and update text area 
