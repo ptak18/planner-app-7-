@@ -4,6 +4,10 @@
 This project is a simple calendar application that allows users to plan and save events for each hour of the day. It showcases essential web development skills, including DOM manipulation, advanced JavaScript, jQuery integration, and the use of third-party APIs.
 
 # Getting Started
+Live link: (https://ptak18.github.io/planner-app-7-/)
+
+Github link: (https://github.com/ptak18/planner-app-7-)
+
 ## Prerequisites:
 A code editor
 Basic understanding of HTML, CSS, JavaScript, and jQuery
@@ -14,6 +18,10 @@ Basic understanding of HTML, CSS, JavaScript, and jQuery
 - Saves events using local storage.
 - Leverages the Day.js library for date and time manipulation.
 - Employs jQuery for dynamic DOM manipulation and event handling.
+
+# Preview
+![planner shot](./images/workdayscheduler1.png)
+
 
 # Usage
 - Open the index.html file in your web browser.
